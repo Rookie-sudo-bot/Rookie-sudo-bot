@@ -1,16 +1,27 @@
-## Hi there 👋
+🧑‍💻 Hi, I’m Hitesh👋
 
-<!--
-**Rookie-sudo-bot/Rookie-sudo-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
+I’m a student and aspiring developer passionate about learning, building, and experimenting with technology.
 
-Here are some ideas to get you started:
+-----------------------------------------------------------------------------
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 College student with an interest in computer science & technology
+
+💡 Exploring software development, UI/UX, and problem-solving
+
+📚 Currently learning and improving my skills step by step
+
+🤝 Open to collaboration and learning from others
+
+--------------------------------------------------------------------
+🛠️ Skills & Technologies
+
+Languages: C, C++, Java, Python (add/remove as needed)
+
+Web: HTML, CSS, JavaScript
+
+Tools: Git, GitHub, VS Code
+
+Other Interests: UI/UX design, databases, networking, AI basics
+--------------------------------------------------------------------
